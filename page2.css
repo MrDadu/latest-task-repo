@@ -1,0 +1,63 @@
+p{
+    color: blueviolet;
+}
+div{
+    margin-inline: 700px ;
+    margin-top: -300px;
+    color: blueviolet;
+}
+.skillwilllogo{
+    width: 100px;
+    border-radius: 100%;
+    outline-color: rgb(110, 36, 206);
+    outline-offset: -1px;
+    outline-width: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+header{
+    background-color: rgb(110, 36, 206);
+    width:1560px;
+    height: 150px;
+    margin-inline-start: -10px;
+    margin-top: -10px;
+    margin-inline-end: -10px;
+}
+
+.homebutton1{
+    background-color: rgb(110, 36, 206);
+    color: white;
+    margin-right: 100px;
+    text-decoration: none;
+    
+}
+
+.skillwillbutton1{
+    background-color: rgb(110, 36, 206);
+    color: white;
+    margin-right: 100px;
+    text-decoration: none;
+}
+
+.aboutbutton1{
+    background-color: rgb(110, 36, 206);
+    color: white;
+    text-decoration: none;
+}
+
+.skillwillbanner{
+    width:700px;
+    margin-left: 100px;
+    margin-inline: -8px;
+}
+
+footer{
+    margin-top: 500px;
+    margin-left: -8px;
+}
+h5{
+    background-color: rgb(110, 36, 206);
+    color: white;
+}

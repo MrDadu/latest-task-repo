@@ -1,0 +1,37 @@
+*{
+  background-color: slategray
+}
+.myHeading{
+    text-align: center
+  }
+  h1{
+    text-align: center;
+  }
+  .text{
+    margin-left: 30%;
+    margin-right: 30%;
+    outline-style: dashed;
+  }
+  
+  h2{
+    text-align: center;
+  }
+
+.link{
+  text-decoration: none;
+  color: black;
+}
+
+  div{
+    text-align: center;
+
+  }
+  .goback{
+    background-color: rgba(255, 255, 255, 0);
+    text-decoration: none;
+    color: black;
+  }
+  
+  h1{font-size: xx-large;}
+ 
+  

@@ -1,0 +1,58 @@
+
+h1{
+    background-color: black;
+    color: white
+}
+
+.logo{
+    width: 100px;
+    border-radius: 100%;
+    outline: auto;
+    outline-color: rgb(255, 255, 255);
+    outline-offset: -1px;
+    outline-width: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+.homebutton{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin-right: 100px;
+    text-decoration:none
+}
+
+.skillwillbutton{
+    background-color: black;
+    color: white;
+    margin-right: 100px;
+    text-decoration: none;
+}
+
+.aboutbutton{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+button{
+    background-color: black;
+    font-size: large;
+}
+
+header{
+    background-color: black;
+    width:1560px;
+    height: 150px;
+    margin-inline-start: -10px;
+    margin-top: -10px;
+    margin-inline-end: -10px;
+}
+
+.banner{
+    width: 700px;
+    margin-inline: -8px;
+}
+
+
